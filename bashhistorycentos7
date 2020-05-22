@@ -255,3 +255,841 @@ docker-compose exec -T elasticsearch bin/elasticsearch-setup-passwords auto --ba
 docker-compose up
 vim .bash_history 
 cat .bash_history > bashhistorycentos7
+sudo ym check-update
+sudo yum check-update
+exit
+sudo ls -la /root
+exit
+sudo yum check-update
+yum update
+sudo yum update
+yum search redis
+ping google.com
+yum install ping
+sudo yum install ping
+ip add
+ping google.com
+vi /etc/sysconfig/network-scripts/ifcfg-eth0 
+sudo vi /etc/sysconfig/network-scripts/ifcfg-eth0 
+ping google.com
+ping
+systemctl restart NetworkManager
+sudo systemctl restart NetworkManager
+ping google.com
+sudo vi /etc/sysconfig/network-scripts/ifcfg-eth0 
+ping mirrorlist.centos.org
+ping google.com
+sudo vim /etc/sysconfig/network-scripts/ifcfg-eth0
+sudo vi /etc/sysconfig/network-scripts/ifcfg-eth0
+sudo systemctl restart NetworkManager
+ping google.com
+ping
+ping - c google.com
+rm -rf /etc/yum.repos.d/remi.repo
+yum update
+sudo yum update
+yum clean all
+sudo yum update
+ping google.com
+ip add
+ip add vibro
+ip add virbro
+ip add virbr0
+ip address help
+ip address showq
+ip address show
+ipconfig
+ifconfig
+ip addr
+cd /etc/sysconfig/network-scripts/
+ls -al
+vi sudo ipcfg-eth0
+ls -al
+sudo vi ifcfg-eth0 
+ping google.com
+sudo systemctl restart NetworkManager
+ping google.com
+ip addr
+ifconfig
+exit
+ping google.com
+sudo yum check-update
+curl -fsSL https://get.docker.com | sh
+ sudo systemctl start docker
+sudo systemctl status docker
+sudo systemctl enable docker
+systemctl status docker
+systemctl start docker
+man docker
+docker -v
+man docker
+docker --config
+docker COMMAND --help
+docker history
+dicjer history --help
+docker run --help
+docker run -m
+docker -m
+docker run --help
+docker run --help | less
+sudo usermod -aG docker $(whoami)
+exit
+docker 
+docker docker-info --help
+docker info --help
+docker info
+docker create --help
+docker create --help | less
+docker info -c
+docker into --help
+docker ingo
+docker info
+docker info --help | less
+docker create --help | less
+docker info -help
+docker info --help
+docker ingo --cpus decimal
+docker run hello-world
+docker search centos
+docker pull centos
+docker run centos
+docker images
+docker pull centos
+docker images
+docker --help
+docker images
+docker rename hello-world hello-world1
+docker images
+docker --help
+docker info --help
+docker create --help | less
+docker run -it centos
+docker commit -m "added mariadb-server" -a "Jay" f4be0548e5a3 finid/centos-mariabd
+docker images
+docker ps
+docker create --help | less
+docker ps --help
+docker --help
+docker ps --help
+docker ps -a
+docker ps -l
+docker stop f4be0548e5a3
+docker ps
+docker ps =a
+docker ps -a
+docker login -u jkenney0405
+docker push jkenney0405/hello-world
+docker push jkenney0405/funny_kalam
+ls /dock
+docker push jkenney0405/centos
+docker push jkenney0405/docker.io/finid/centos-mariabd
+ls -al
+ls .docker
+ls -al .docker
+cd .docker
+ls -all
+config.json
+vim config.json
+vi config.json
+docker ps -a
+/hello
+. /hello
+docker images
+docker run -it -d finid/centos-mariadb
+docker images
+docker ps -a
+docker exec -it 8dde7e35cf07
+docker exec -it 8dde7e35cf07 bash
+ps -a
+pwd
+cd `
+cd ~
+pwd
+ps -a
+docker ps -a
+docker commit 8dde7e35cf07 jay/test-image-123
+docker images
+docker push jay/test-image-123
+docker push finid/centos-mariadb
+docker push jkenney0405/jay/test-image-123
+docker login
+docker push jay/test-image-123
+docker login
+docker push jay/test-image-123
+docker push finid/centos-mariadb
+sudo docker push jay/test-image-123
+docker login jkenney0405
+docker login -u jkenney0405
+docker push jay/test-image-123
+docker push new-repo:test123 jay/test-image-123
+docker push jay/test-image-123
+docker login -u "jkenney0405 -p "Verizon03 docker.io
+vi /home/jay/.docker/config.json 
+docker login -u "jkenney0405"
+docker push jay/test-image-123
+docker login -u "jkenney0405 -p "Verizon03" docker.io
+docker login -u "jkenney0405 -p "Verizon03"docker.io
+docker login -u "jkenney0405" -p "Verizon03"docker.io
+docker login -u "jkenney0405" -p "Verizon03" docker.io
+docker push jay/test-image-123
+docker push jkenney0405/test-image-123
+docker push jay/test-image-123
+docker login
+docker push jay/test-image-123
+docker login -u jkenney0405
+ps -a
+docker ps -a
+docker tag finid/centos-mariabd:latest jkenney0405/dockerhub:myfirstimagepush
+docker push jkenney0405/dockerhub:myfirstimagepush
+docker ps -a
+docker tag -help
+docker tag --help
+docker push jkenney0405:finid/centos-mariadb
+docker push jkenney0405/finid/centos-mariadb
+docker push jkenney0405/f4be0548e5a3
+docker login -u jkenney0405
+docker push jkenney0405/centos
+docker push centos
+docker ps -a
+docker tag centos:latest jkenney0405/dockerhub:mysecondpush
+docker push jkenney0405/dockerhub:mysecondpush
+docker tag centos:latest jkenney0405/dockerhub1:mysecondpush
+docker push jkenney0405/dockerhub1:mysecondpush
+docker tag centos:latest jkenney0405/dockerhub:mysecondpush
+docker push jkenney0405/dockerhub:mysecondpush
+docker pull centos
+docker run -d -t --name cantcontainmyself centos
+docker -a
+docker ps -a
+dock ps 
+docker ps
+docker exec -it cancontainmyself bash
+docker run -d -t --name cantcontainmyself centos
+docker exec -it cantcontainmyself bash
+docker ps -a
+docker ps
+docker pull alpine
+docker run -t -d --name ohyeah alpine
+docker ps
+docker ps -a
+docker info
+docker images
+docker run -it centos
+docker images
+docker ps -a
+docker images
+docker ps
+docker stop alpine
+docker stop 7b8c8471cb04
+docker ps
+yum install docker compose
+sudo yum install docker compose
+sudo systemctl status docker
+chcon -R system_u:object_r:admin_home_t:s0 docker-elk/
+sudo yum install -y yum-utils
+docker-compise --version
+sudo curl -L "https://github.com/docker/compose/releases/download/1.25.5/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+sudo chmod +x /usr/local/bin/docker-compose 
+docker-compose --version
+docker --version
+docker-compuse up
+docker-compose up
+docker compose -v
+docker-compose version
+chcon -R system_u:object_r:admin_home_t:s0 docker-elk/
+docker-compose up
+git clone https://github.com/deviantony/docker-elk.git
+sudo yum install git
+git clone https://github.com/deviantony/docker-elk.git
+ls -al
+git clone https://github.com/deviantony/docker-elk.git
+chcon -R system_u:object_r:admin_home_t:s0 docker-elk/
+docker-compose exec -T elasticsearch bin/elasticsearch-setup-passwords auto --batch
+cd docker-elk/
+docker-compose exec -T elasticsearch bin/elasticsearch-setup-passwords auto --batch
+ls -al
+docker-compose exec -T elasticsearch bin/elasticsearch-setup-passwords auto --batch
+docker-compose up
+vim .bash_history 
+cat .bash_history > bashhistorycentos7
+sudo ym check-update
+sudo yum check-update
+exit
+sudo ls -la /root
+exit
+sudo yum check-update
+yum update
+sudo yum update
+yum search redis
+ping google.com
+yum install ping
+sudo yum install ping
+ip add
+ping google.com
+vi /etc/sysconfig/network-scripts/ifcfg-eth0 
+sudo vi /etc/sysconfig/network-scripts/ifcfg-eth0 
+ping google.com
+ping
+systemctl restart NetworkManager
+sudo systemctl restart NetworkManager
+ping google.com
+sudo vi /etc/sysconfig/network-scripts/ifcfg-eth0 
+ping mirrorlist.centos.org
+ping google.com
+sudo vim /etc/sysconfig/network-scripts/ifcfg-eth0
+sudo vi /etc/sysconfig/network-scripts/ifcfg-eth0
+sudo systemctl restart NetworkManager
+ping google.com
+ping
+ping - c google.com
+rm -rf /etc/yum.repos.d/remi.repo
+yum update
+sudo yum update
+yum clean all
+sudo yum update
+ping google.com
+ip add
+ip add vibro
+ip add virbro
+ip add virbr0
+ip address help
+ip address showq
+ip address show
+ipconfig
+ifconfig
+ip addr
+cd /etc/sysconfig/network-scripts/
+ls -al
+vi sudo ipcfg-eth0
+ls -al
+sudo vi ifcfg-eth0 
+ping google.com
+sudo systemctl restart NetworkManager
+ping google.com
+ip addr
+ifconfig
+exit
+ping google.com
+sudo yum check-update
+curl -fsSL https://get.docker.com | sh
+ sudo systemctl start docker
+sudo systemctl status docker
+sudo systemctl enable docker
+systemctl status docker
+systemctl start docker
+man docker
+docker -v
+man docker
+docker --config
+docker COMMAND --help
+docker history
+dicjer history --help
+docker run --help
+docker run -m
+docker -m
+docker run --help
+docker run --help | less
+sudo usermod -aG docker $(whoami)
+exit
+docker 
+docker docker-info --help
+docker info --help
+docker info
+docker create --help
+docker create --help | less
+docker info -c
+docker into --help
+docker ingo
+docker info
+docker info --help | less
+docker create --help | less
+docker info -help
+docker info --help
+docker ingo --cpus decimal
+docker run hello-world
+docker search centos
+docker pull centos
+docker run centos
+docker images
+docker pull centos
+docker images
+docker --help
+docker images
+docker rename hello-world hello-world1
+docker images
+docker --help
+docker info --help
+docker create --help | less
+docker run -it centos
+docker commit -m "added mariadb-server" -a "Jay" f4be0548e5a3 finid/centos-mariabd
+docker images
+docker ps
+docker create --help | less
+docker ps --help
+docker --help
+docker ps --help
+docker ps -a
+docker ps -l
+docker stop f4be0548e5a3
+docker ps
+docker ps =a
+docker ps -a
+docker login -u jkenney0405
+docker push jkenney0405/hello-world
+docker push jkenney0405/funny_kalam
+ls /dock
+docker push jkenney0405/centos
+docker push jkenney0405/docker.io/finid/centos-mariabd
+ls -al
+ls .docker
+ls -al .docker
+cd .docker
+ls -all
+config.json
+vim config.json
+vi config.json
+docker ps -a
+/hello
+. /hello
+docker images
+docker run -it -d finid/centos-mariadb
+docker images
+docker ps -a
+docker exec -it 8dde7e35cf07
+docker exec -it 8dde7e35cf07 bash
+ps -a
+pwd
+cd `
+cd ~
+pwd
+ps -a
+docker ps -a
+docker commit 8dde7e35cf07 jay/test-image-123
+docker images
+docker push jay/test-image-123
+docker push finid/centos-mariadb
+docker push jkenney0405/jay/test-image-123
+docker login
+docker push jay/test-image-123
+docker login
+docker push jay/test-image-123
+docker push finid/centos-mariadb
+sudo docker push jay/test-image-123
+docker login jkenney0405
+docker login -u jkenney0405
+docker push jay/test-image-123
+docker push new-repo:test123 jay/test-image-123
+docker push jay/test-image-123
+docker login -u "jkenney0405 -p "Verizon03 docker.io
+vi /home/jay/.docker/config.json 
+docker login -u "jkenney0405"
+docker push jay/test-image-123
+docker login -u "jkenney0405 -p "Verizon03" docker.io
+docker login -u "jkenney0405 -p "Verizon03"docker.io
+docker login -u "jkenney0405" -p "Verizon03"docker.io
+docker login -u "jkenney0405" -p "Verizon03" docker.io
+docker push jay/test-image-123
+docker push jkenney0405/test-image-123
+docker push jay/test-image-123
+docker login
+docker push jay/test-image-123
+docker login -u jkenney0405
+ps -a
+docker ps -a
+docker tag finid/centos-mariabd:latest jkenney0405/dockerhub:myfirstimagepush
+docker push jkenney0405/dockerhub:myfirstimagepush
+docker ps -a
+docker tag -help
+docker tag --help
+docker push jkenney0405:finid/centos-mariadb
+docker push jkenney0405/finid/centos-mariadb
+docker push jkenney0405/f4be0548e5a3
+docker login -u jkenney0405
+docker push jkenney0405/centos
+docker push centos
+docker ps -a
+docker tag centos:latest jkenney0405/dockerhub:mysecondpush
+docker push jkenney0405/dockerhub:mysecondpush
+docker tag centos:latest jkenney0405/dockerhub1:mysecondpush
+docker push jkenney0405/dockerhub1:mysecondpush
+docker tag centos:latest jkenney0405/dockerhub:mysecondpush
+docker push jkenney0405/dockerhub:mysecondpush
+docker pull centos
+docker run -d -t --name cantcontainmyself centos
+docker -a
+docker ps -a
+dock ps 
+docker ps
+docker exec -it cancontainmyself bash
+docker run -d -t --name cantcontainmyself centos
+docker exec -it cantcontainmyself bash
+docker ps -a
+docker ps
+docker pull alpine
+docker run -t -d --name ohyeah alpine
+docker ps
+docker ps -a
+docker info
+docker images
+docker run -it centos
+docker images
+docker ps -a
+docker images
+docker ps
+docker stop alpine
+docker stop 7b8c8471cb04
+docker ps
+yum install docker compose
+sudo yum install docker compose
+sudo systemctl status docker
+chcon -R system_u:object_r:admin_home_t:s0 docker-elk/
+sudo yum install -y yum-utils
+docker-compise --version
+sudo curl -L "https://github.com/docker/compose/releases/download/1.25.5/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+sudo chmod +x /usr/local/bin/docker-compose 
+docker-compose --version
+docker --version
+docker-compuse up
+docker-compose up
+docker compose -v
+docker-compose version
+chcon -R system_u:object_r:admin_home_t:s0 docker-elk/
+docker-compose up
+git clone https://github.com/deviantony/docker-elk.git
+sudo yum install git
+git clone https://github.com/deviantony/docker-elk.git
+ls -al
+git clone https://github.com/deviantony/docker-elk.git
+chcon -R system_u:object_r:admin_home_t:s0 docker-elk/
+docker-compose exec -T elasticsearch bin/elasticsearch-setup-passwords auto --batch
+cd docker-elk/
+docker-compose exec -T elasticsearch bin/elasticsearch-setup-passwords auto --batch
+ls -al
+docker-compose exec -T elasticsearch bin/elasticsearch-setup-passwords auto --batch
+docker-compose up
+vim .bash_history 
+cat .bash_history > bashhistorycentos7
+ls -al
+cat .bash_history > bashhistorycentos7
+ls -al
+pwd
+history | grep git
+history | grep jkenney0405
+git push 
+git push jkenney0405 bashhistorycentos7 
+echo "#hello-worldbashfile" >> README.md
+git init
+git add README.md
+git add bashhistorycentos7 
+git commit -m "first commit
+git commit -m "first commit"
+git commit -m "first commit
+git commit -m "first commit"
+git commit -m "first commit"
+git remote add origin https://github.com/jkenney0405/hello-worldbashfile.git
+git push -u origin master
+git remote add origin https://github.com/jkenney0405/files-from-kvm-centos-7.git
+git add bashhistorycentos7 
+git push -u origin master
+git push kenney0405/file-from-kvm-centos-7.git bashhistorycentos7 
+git push 
+cat .bash_history >> bashhistorycentos7 
+git add bashhistorycentos7 
+git commit -m second commit"
+git push 
+vim bashhistorycentos7 
+vim .bash_history 
+quit
+exit
+sudo ym check-update
+sudo yum check-update
+exit
+sudo ls -la /root
+exit
+sudo yum check-update
+yum update
+sudo yum update
+yum search redis
+ping google.com
+yum install ping
+sudo yum install ping
+ip add
+ping google.com
+vi /etc/sysconfig/network-scripts/ifcfg-eth0 
+sudo vi /etc/sysconfig/network-scripts/ifcfg-eth0 
+ping google.com
+ping
+systemctl restart NetworkManager
+sudo systemctl restart NetworkManager
+ping google.com
+sudo vi /etc/sysconfig/network-scripts/ifcfg-eth0 
+ping mirrorlist.centos.org
+ping google.com
+sudo vim /etc/sysconfig/network-scripts/ifcfg-eth0
+sudo vi /etc/sysconfig/network-scripts/ifcfg-eth0
+sudo systemctl restart NetworkManager
+ping google.com
+ping
+ping - c google.com
+rm -rf /etc/yum.repos.d/remi.repo
+yum update
+sudo yum update
+yum clean all
+sudo yum update
+ping google.com
+ip add
+ip add vibro
+ip add virbro
+ip add virbr0
+ip address help
+ip address showq
+ip address show
+ipconfig
+ifconfig
+ip addr
+cd /etc/sysconfig/network-scripts/
+ls -al
+vi sudo ipcfg-eth0
+ls -al
+sudo vi ifcfg-eth0 
+ping google.com
+sudo systemctl restart NetworkManager
+ping google.com
+ip addr
+ifconfig
+exit
+ping google.com
+sudo yum check-update
+curl -fsSL https://get.docker.com | sh
+ sudo systemctl start docker
+sudo systemctl status docker
+sudo systemctl enable docker
+systemctl status docker
+systemctl start docker
+man docker
+docker -v
+man docker
+docker --config
+docker COMMAND --help
+docker history
+dicjer history --help
+docker run --help
+docker run -m
+docker -m
+docker run --help
+docker run --help | less
+sudo usermod -aG docker $(whoami)
+exit
+docker 
+docker docker-info --help
+docker info --help
+docker info
+docker create --help
+docker create --help | less
+docker info -c
+docker into --help
+docker ingo
+docker info
+docker info --help | less
+docker create --help | less
+docker info -help
+docker info --help
+docker ingo --cpus decimal
+docker run hello-world
+docker search centos
+docker pull centos
+docker run centos
+docker images
+docker pull centos
+docker images
+docker --help
+docker images
+docker rename hello-world hello-world1
+docker images
+docker --help
+docker info --help
+docker create --help | less
+docker run -it centos
+docker commit -m "added mariadb-server" -a "Jay" f4be0548e5a3 finid/centos-mariabd
+docker images
+docker ps
+docker create --help | less
+docker ps --help
+docker --help
+docker ps --help
+docker ps -a
+docker ps -l
+docker stop f4be0548e5a3
+docker ps
+docker ps =a
+docker ps -a
+docker login -u jkenney0405
+docker push jkenney0405/hello-world
+docker push jkenney0405/funny_kalam
+ls /dock
+docker push jkenney0405/centos
+docker push jkenney0405/docker.io/finid/centos-mariabd
+ls -al
+ls .docker
+ls -al .docker
+cd .docker
+ls -all
+config.json
+vim config.json
+vi config.json
+docker ps -a
+/hello
+. /hello
+docker images
+docker run -it -d finid/centos-mariadb
+docker images
+docker ps -a
+docker exec -it 8dde7e35cf07
+docker exec -it 8dde7e35cf07 bash
+ps -a
+pwd
+cd `
+cd ~
+pwd
+ps -a
+docker ps -a
+docker commit 8dde7e35cf07 jay/test-image-123
+docker images
+docker push jay/test-image-123
+docker push finid/centos-mariadb
+docker push jkenney0405/jay/test-image-123
+docker login
+docker push jay/test-image-123
+docker login
+docker push jay/test-image-123
+docker push finid/centos-mariadb
+sudo docker push jay/test-image-123
+docker login jkenney0405
+docker login -u jkenney0405
+docker push jay/test-image-123
+docker push new-repo:test123 jay/test-image-123
+docker push jay/test-image-123
+docker login -u "jkenney0405 -p "Verizon03 docker.io
+vi /home/jay/.docker/config.json 
+docker login -u "jkenney0405"
+docker push jay/test-image-123
+docker login -u "jkenney0405 -p "Verizon03" docker.io
+docker login -u "jkenney0405 -p "Verizon03"docker.io
+docker login -u "jkenney0405" -p "Verizon03"docker.io
+docker login -u "jkenney0405" -p "Verizon03" docker.io
+docker push jay/test-image-123
+docker push jkenney0405/test-image-123
+docker push jay/test-image-123
+docker login
+docker push jay/test-image-123
+docker login -u jkenney0405
+ps -a
+docker ps -a
+docker tag finid/centos-mariabd:latest jkenney0405/dockerhub:myfirstimagepush
+docker push jkenney0405/dockerhub:myfirstimagepush
+docker ps -a
+docker tag -help
+docker tag --help
+docker push jkenney0405:finid/centos-mariadb
+docker push jkenney0405/finid/centos-mariadb
+docker push jkenney0405/f4be0548e5a3
+docker login -u jkenney0405
+docker push jkenney0405/centos
+docker push centos
+docker ps -a
+docker tag centos:latest jkenney0405/dockerhub:mysecondpush
+docker push jkenney0405/dockerhub:mysecondpush
+docker tag centos:latest jkenney0405/dockerhub1:mysecondpush
+docker push jkenney0405/dockerhub1:mysecondpush
+docker tag centos:latest jkenney0405/dockerhub:mysecondpush
+docker push jkenney0405/dockerhub:mysecondpush
+docker pull centos
+docker run -d -t --name cantcontainmyself centos
+docker -a
+docker ps -a
+dock ps 
+docker ps
+docker exec -it cancontainmyself bash
+docker run -d -t --name cantcontainmyself centos
+docker exec -it cantcontainmyself bash
+docker ps -a
+docker ps
+docker pull alpine
+docker run -t -d --name ohyeah alpine
+docker ps
+docker ps -a
+docker info
+docker images
+docker run -it centos
+docker images
+docker ps -a
+docker images
+docker ps
+docker stop alpine
+docker stop 7b8c8471cb04
+docker ps
+yum install docker compose
+sudo yum install docker compose
+sudo systemctl status docker
+chcon -R system_u:object_r:admin_home_t:s0 docker-elk/
+sudo yum install -y yum-utils
+docker-compise --version
+sudo curl -L "https://github.com/docker/compose/releases/download/1.25.5/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+sudo chmod +x /usr/local/bin/docker-compose 
+docker-compose --version
+docker --version
+docker-compuse up
+docker-compose up
+docker compose -v
+docker-compose version
+chcon -R system_u:object_r:admin_home_t:s0 docker-elk/
+docker-compose up
+git clone https://github.com/deviantony/docker-elk.git
+sudo yum install git
+git clone https://github.com/deviantony/docker-elk.git
+ls -al
+git clone https://github.com/deviantony/docker-elk.git
+chcon -R system_u:object_r:admin_home_t:s0 docker-elk/
+docker-compose exec -T elasticsearch bin/elasticsearch-setup-passwords auto --batch
+cd docker-elk/
+docker-compose exec -T elasticsearch bin/elasticsearch-setup-passwords auto --batch
+ls -al
+docker-compose exec -T elasticsearch bin/elasticsearch-setup-passwords auto --batch
+docker-compose up
+vim .bash_history 
+cat .bash_history > bashhistorycentos7
+ls -al
+cat .bash_history > bashhistorycentos7
+ls -al
+pwd
+history | grep git
+history | grep jkenney0405
+git push 
+git push jkenney0405 bashhistorycentos7 
+echo "#hello-worldbashfile" >> README.md
+git init
+git add README.md
+git add bashhistorycentos7 
+git commit -m "first commit
+git commit -m "first commit"
+git commit -m "first commit
+git commit -m "first commit"
+git commit -m "first commit"
+git remote add origin https://github.com/jkenney0405/hello-worldbashfile.git
+git push -u origin master
+git remote add origin https://github.com/jkenney0405/files-from-kvm-centos-7.git
+git add bashhistorycentos7 
+git push -u origin master
+git push kenney0405/file-from-kvm-centos-7.git bashhistorycentos7 
+git push 
+cat .bash_history >> bashhistorycentos7 
+git add bashhistorycentos7 
+git commit -m second commit"
+git push 
+vim bashhistorycentos7 
+vim .bash_history 
+quit
+exit
+vim .bash_history 
+cat .bash_history >> bashhistorycentos7 
+exit
